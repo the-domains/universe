@@ -1,6 +1,7 @@
 name: universe
 favicon: null
 layout_spectrum: 1
+title: titletle
 cta:
   domain: null
   bucket: null
